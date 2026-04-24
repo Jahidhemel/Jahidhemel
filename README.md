@@ -1,4 +1,4 @@
-### Hi, I'm Jahidul 👋
+### Hi, I'm Hemel 👋
 
 I'm a **Customer Support Engineer** based in Dhaka, Bangladesh, specializing in Shopify-based SaaS products. I help merchants across the US, UK, and EU get the most out of their apps — troubleshooting, documenting, and closing the loop between users and developers.
 
