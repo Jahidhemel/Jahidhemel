@@ -58,12 +58,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahidhemel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahidhemel&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahidhemel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Hemel's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Jahidhemel&theme=tokyonight&hide_border=true&card_width=445" alt="Hemel's contribution streak" />
 </p>
 
 <p align="center">
