@@ -15,7 +15,7 @@ I'm a support engineer at **Efoli, LLC**, where most of my day is spent helping 
 
 Three years in, I've grown to enjoy the messier end of support: reproducing odd bugs, writing the doc that finally explains a confusing feature, or sitting on a video call until something just *works*.
 
-I work US night-shift hours and try to pick up something new on the side every few months — right now it's getting more confident with Sass and Tailwind through small landing-page projects (pinned below).
+I've got a few years on US night-shift behind me and now run a more standard schedule and try to pick up something new on the side every few months — right now it's getting more confident with Sass and Tailwind through small landing-page projects (pinned below).
 
 ---
 
