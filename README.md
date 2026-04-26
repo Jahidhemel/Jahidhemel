@@ -58,9 +58,9 @@
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahidhemel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Hemel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahidhemel&show_icons=true&include_all_commits=true&count_private=true&card_width=445&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Hemel's GitHub stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Jahidhemel&theme=tokyonight&hide_border=true&card_width=445" alt="Hemel's contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jahidhemel&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&card_width=445" alt="Hemel's contribution streak" />
 </p>
 
 <p align="center">
